@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Work History Page</title>
+</head>
+
+<body>
+	<header>
+		<nav id="option">
+			<img src="http://web.iit.edu/sites/web/themes/iit_web/favicon.ico" alt="iit logo">
+			<ul>
+				<li><a href="index.html">Homepage</a></li>
+				<li><a href="workhistory.html">Work History</a></li>
+				<li><a href="education.html">Education History</a></li>
+				<li><a href="video.html">Video</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<h1>My Work History</h1>
+	<section id="HCL">
+		<h2>HCL Technologies (2014 - 2016)</h2>
+		<h3>Network Level Test End User Coordinatioor</h3>
+		<ol>
+			<li>Developed Test Strategy for Test Plan</li>
+			<li>Lab schedules prioritization and facilitation for the team</li>
+			<li>Managed test status, Planning, and Execution thru Test Management System</li>
+		</ol>
+		<h3>NLT End User Lead Test Engineer</h3>
+		<ol>
+			<li>IOT with OnStar</li>
+			<li>Interaction with external vendors</li>
+			<li>Worked with developers on field issues</li>
+		</ol>
+	</section>
+	
+	<section id="ALU">
+		<h2>Alcatel Lucent (2006 - 2014)</h2>
+		<h3>Network Level Test End User Coordinatioor</h3>
+		<ol>
+			<li>Provided compiled test results to upper management</li>
+			<li>Participated in Hot List meetings to negotiate fixes on problems found</li>
+			<li>Managed post release deliveries test effort</li>
+		</ol>
+		<h3>NLT End User Lead Test Engineer</h3>
+		<ol>
+			<li>Subject Matter Expert (SME) on OTAF, E911, CALEA, SMS, and WPS</li>
+			<li>Worked/Suppoter LTE (4G) with feature test phase in NLT lab</li>
+			<li>Performance testing for Call Processing and OA&M for Plexus Media Gateway</li>
+		</ol>
+	</section>
+	
+	<section id="LU">
+		<h2>Lucent Technologies (1997 - 2006)</h2>
+		<h3>CDMA ECP Call Processing Developer</h3>
+		<ol>
+			<li>Developed Location Based Service (LBS) call processing feaures</li>
+			<li>Developed several Short Message Service (SMS) fast features</li>
+			<li>Feature Engineer - coordinated testing effort for internation customer</li>
+			<li>Provided bug fixes for E911 field issues</li>
+			<li>Developed Mobile Position Center Simulator tool for development testing</li>
+		</ol>
+		<h3>MSC Features Developer</h3>
+		<ol>
+			<li>Developed several CALEA features</li>
+			<li>Developed several fast features</li>
+		</ol>
+	</section>
+	
+	<section id="inland">
+		<h2>Inland Steel (1988 - 1997)</h2>
+		<h3>Project Engineer</h3>
+		<ol>
+			<li>Developed tracking system menu for Cold Mill</li>
+			<li>Developed eletronic database system for the Slab Mill operators</li>
+			<li>Integrated new gateway and modernized the computer software</li>
+			<li>Worked with vendors on MMI software</li>
+		</ol>
+	</section>
+		
+	<footer>
+		<p> Auhor: Luno Khuon</p>
+		<address>
+			<p><a href="mailto:lkhuon1@hawk.iit.edu">lkhuon1@hawk.iit.edu</a></p>
+		</address>
+	</footer>
+</body>
+</html>
