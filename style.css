@@ -1,0 +1,47 @@
+/* change background to gray for all the files */
+body{
+	background-color: gray;
+}
+header{
+	color:red;
+}
+#option{
+	font-size: 25px;
+}
+
+/* change index.html file */
+#welcome{
+	color: red;
+}
+#intro{
+	color:purple;
+	font-family: Helvetica;
+}
+	
+#footone{
+	color:blue;
+}
+	
+/* change work history */
+#HCL{
+	font-family: Courier;
+}
+#inland{
+	color:purple;
+}
+#foottwo{
+	font-size: 20px;
+}
+
+/* change education history */
+#education{
+	color: Orange;
+}
+#ed{
+	font-size: 25px;
+	color: green;
+}
+#pro{
+	font-family: Helvetica;
+	color: red;
+}
