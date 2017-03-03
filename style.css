@@ -6,9 +6,8 @@ header{
 	color:red;
 	font-size: 200%;
 }
-article {
-	border:1px solid black;
-	padding: 1px;
+p{
+	color: orange;
 }
 
 /* change index.html file */
@@ -19,9 +18,9 @@ article {
 	color:purple;
 	font-family: Helvetica;
 }
-article {
-	border:1px solid black;
-	padding: 1px;
+#footone{
+	font-family: Courier;
+	font-size: 100%;
 }
 	
 /* change work history */
@@ -32,7 +31,6 @@ article {
 	color:purple;
 }
 #foottwo{
-	border: 1px solid black;
 	text-align:center;
 	font-size: 150%;
 }
