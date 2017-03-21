@@ -29,7 +29,7 @@ li{
 	display: inline;
 	margin-left: 15px;
 	margin-right: 15px;
-	font size: px;
+	font-size: 20px;
 	font-variant: small-caps;
 	font-weight: bold;
 }
@@ -71,7 +71,7 @@ aside{
 	
 /* change work history */
 article{
-	background-color: georgian;
+	background-color: gray;
 	margin-top: 5px;
 	padding: 5px;
 }
@@ -115,9 +115,5 @@ footer{
 	clear: both;
 	text-align: center;	
 }
-
-    Contact GitHub API Training Shop Blog About 
-
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
 
 
