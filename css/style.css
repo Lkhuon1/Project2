@@ -56,7 +56,7 @@ p{
 	font-family: Helvetica;
 }
 aside{
-	background-color: green;
+	background-color: pink;
 	width: 270px;
 	float: right;
 	padding: 20px;
@@ -84,8 +84,8 @@ article{
 }
 #foottwo{
 	clear: both;
-	text-align:center;
-	font-size: 150%;
+	color: green;
+	font-size: 100%;
 }
 
 /* change education history */
