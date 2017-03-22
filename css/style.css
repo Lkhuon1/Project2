@@ -53,7 +53,7 @@ p{
 }
 #intro{
 	color:green;
-	font-family: Helvetica;
+	font-family: 'Griffy', San-serif;
 }
 aside{
 	background-color: pink;
@@ -77,7 +77,7 @@ article{
 }
 #HCL{
 
-	font-family: Courier;
+	font-family: 'Griffy';
 }
 #inland{
 	color:purple;
