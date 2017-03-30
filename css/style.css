@@ -1,12 +1,12 @@
 @charset "UTF 8";
 /* change background to gray for all the files */
-body{
+body {
 	background-color: #f0f0f0;
 	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 }
-header{
+header {
 	color: white;
 	font-size: 150%;
 }
@@ -15,16 +15,16 @@ header{
 	padding: 10px 20px;
 	text-align: center;
 }
-nav{
+nav {
 	background-color: #20416c;
 	padding: 5px;
 	margin-top: 1px;
 }
 
-li a{
+li a {
 	color: white;
 }
-li{
+li {
 	color: white;
 	display: inline;
 	margin-left: 15px;
@@ -48,14 +48,14 @@ p{
 }
 
 /* change index.html file */
-#welcome{
+#welcome {
 	color: red;
 }
-#intro{
+#intro {
 	color:green;
 	font-family: 'Griffy', San-serif;
 }
-aside{
+aside {
 	background-color: pink;
 	width: 270px;
 	float: right;
@@ -63,23 +63,22 @@ aside{
 	margin-top: 10px;
 	text-align: center;
 }
-#footone{
+#footone {
 	clear: both;
 	font-family: Courier;
 	font-size: 100%;
 }
 	
 /* change work history */
-article{
+article {
 	background-color: gray;
 	margin-top: 5px;
 	padding: 5px;
 }
-#HCL{
-
+#HCL {
 	font-family: 'Griffy';
 }
-#inland{
+#inland {
 	color:purple;
 }
 #foottwo{
@@ -92,26 +91,30 @@ article{
 footer{
 	clear:both;
 }
-#education{
+#education {
 	clear: both;
 }
-#ed{
+#MSEE {
+	clear:both;
+}
+#ed {
 	font-size: 150%;
 	color: green;
 }
-#pro{
+
+#pro {
 	font-family: Helvetica;
 	color: green;
 }
 
 /* change for video file */
-#vidwel{
+#vidwel {
 	text-align:center;
 }
-#video{
+#video {
 	text-align: center;
 }
-#vidfoot{
+#vidfoot {
 	clear: both;
 	text-align: center;	
 }
